@@ -14,5 +14,6 @@
   <img align="center" src="https://user-images.githubusercontent.com/43351342/230732233-862750e7-d19d-4ee5-99cd-1a9dcc6006ab.png" width="95">
 
 <h3>💻 Layout</h3>
-    <h4>Você pode visualizar o layout de projeto através desse link: https://www.figma.com/file/2wwMceWqZ9PEhu2B1Xueo0/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Ignite-(Community)?type=design&node-id=205-3&t=o71DHVXWTFgBzCUS-0</h4>
-    <h4>É necessário tem uma conta no Figma: https://www.figma.com/ </h4>
+    
+  Você pode visualizar o layout de projeto através [desse link](https://www.figma.com/file/2wwMceWqZ9PEhu2B1Xueo0/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Ignite-(Community)?type=design&node-id=205-3&t=o71DHVXWTFgBzCUS-0).
+    É necessário tem uma conta no [Figma](https://www.figma.com).
