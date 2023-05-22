@@ -12,6 +12,11 @@
   <h3>🔧 Ferramentas: <h3/>   
   <img align="center" src="https://user-images.githubusercontent.com/43351342/230731986-c687b16d-2cb6-4b04-bae5-bb56cdb85114.png" alt="logo" width="70">
   <img align="center" src="https://user-images.githubusercontent.com/43351342/230732233-862750e7-d19d-4ee5-99cd-1a9dcc6006ab.png" width="95">
+    <img align="center" src="https://user-images.githubusercontent.com/43351342/230732142-a0c02a09-4b03-4484-8153-9a87a972a547.png" width="70">
+    <img align="center" src="https://github.com/SteffaneCastro/nlw-spacetime/assets/43351342/baf2bae9-6f47-4387-bdc5-7c78ed250420" alt="logo" width="70">
+    <img align="center" src="https://github.com/SteffaneCastro/nlw-spacetime/assets/43351342/1f9c494c-a961-4010-b6d8-96e1880a0498" alt="logo" width="70">
+
+
 
 <h3>💻 Layout</h3>
     
