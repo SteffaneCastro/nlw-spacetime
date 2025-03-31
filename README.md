@@ -1,4 +1,4 @@
-# ⏳Cápsula do Tempo 
+# ⏳Cápsula do Tempo - Em progresso
 
 <img src= "https://github.com/SteffaneCastro/nlw-spacetime/assets/43351342/d02db36e-546d-4eba-bd91-f5a1871aba3a">
 
